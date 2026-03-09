@@ -1,0 +1,7 @@
+{
+    "agent_id": "chatgpt_or_gemini",
+    "mission_id": "M-001",
+    "response_type": "REPORT",
+    "content": "PASTE_AGENT_RESPONSE_HERE",
+    "action_requested": "NONE"
+}
