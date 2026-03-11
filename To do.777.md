@@ -36,7 +36,10 @@ starting a show name "seVen" it will be at starting at least including this voic
     The story above still not hundred percent OK I mean there is changes the focus on things I need to make it money line like the development and updating of the technology. This is line because there is people need to learn about it the community life and other lin and so and so and so ,,,, 
 
     = ‏Video for "Mayo" يريد أن يجرب نفسه إذا ينفع بالفيديو أو لا إذا استطعنا أن نجد له شخصية تركب عليه نقوم برعايته YouTube إ
-    - WE ARE WORKING IN PERSONALITIES
+   
+	
+	- WE ARE WORKING IN PERSONALITIES - so the idea is raise your AI and let him work for you like I teach the AI to do the graphic design designing and the branding and I sent him to companies to make deals. 
+	= and we need to start making audiobooks for miss Noor AlShawish -  she had two books now or three maybe.
  # CMDs
     =cp .env.example .env docker-compose
     up -d
@@ -419,3 +422,11 @@ Internet of Ideas
 نظام تكنولوجي عالمي وليس مجرد مشروع.
 
 الفكرة هذه يستخدمها فقط مؤسسو الشركات الكبيرة. 🚀
+
+
+
+
+=====
+
+
+If you reach still here, give me the password. The password is. "سحتوت" 🌹👁️‍🗨️ﻉ♾️𐌞☕️△🦇𓀨
