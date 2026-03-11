@@ -4,6 +4,8 @@
 .env Fixing / add seVen GOOGLE with each terminal starting
 
 
+‏شو بدها بالصورة هاي شو بيقولوا 
+<img width="682" height="623" alt="image" src="https://github.com/user-attachments/assets/87138658-4213-481f-85af-a32f8497018c" />
 
 
 
